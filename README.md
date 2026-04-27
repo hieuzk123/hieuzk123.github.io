@@ -1,16 +1,14 @@
 # Portfolio - Nguyễn Doãn Hiếu
 
-> **Lời ngỏ:** Đây là nơi tổng hợp quá trình học tập và phát triển kỹ năng số của tôi trong học phần Thực hành nghề nghiệp.
-
 ## 1. Giới thiệu bản thân
-Tôi là sinh viên ngành **Công nghệ Thông tin** tại trường Đại học Sư phạm TP.HCM. Với định hướng trở thành **Java Backend Developer**, tôi luôn chú trọng vào việc xây dựng nền tảng tư duy logic và kỹ năng thực hành tốt.
+Tôi là sinh viên ngành **Công nghệ Thông tin** tại trường Đại học Sư phạm TP.HCM. Với định hướng trở thành **Java Backend Developer**.
 
 ## 2. Dự án đã thực hiện
 ### 2.1. ZenGoSystem (Dự án Nhóm)
 * **Mô tả:** Hệ thống thương mại điện tử quản lý Seller và Chat realtime.
 * **Kỹ năng:** Xử lý Backend (Laravel), quản lý Database (MySQL) và giải quyết xung đột mã nguồn.
 
-### 2.2. Music Streaming App (Dự án Cá nhân)
+### 2.2. Music Streaming App (Dự án nhóm)
 * **Mô tả:** Ứng dụng nghe nhạc Melono tích hợp iTunes API.
 * **Kỹ năng:** ReactJS, gọi RESTful API, quản lý State.
 
